@@ -11,8 +11,8 @@ RMSE was used for model evaluation.
 
 ## File structure
 There are three files:
-- Report in the form of an Rmd file
-- Report in the form of a PDF document knit from the Rmd file
+- Report in the form of an .Rmd file
+- Report in the form of a PDF document knit from the .Rmd file
 - R script that generates predicted movie ratings and calculates RMSE
 
 ## RMSE grading
